@@ -1,0 +1,94 @@
+<!doctype html>
+
+
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>The 10-K Project</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+
+<h1 class="display-3 text-center"> The 10-K Project </h1>
+
+
+<nav class="navbar justify-content-center">
+    <h4><a class="nav-link active" href="index.html">Demo</a></h4>
+    <h4><a class="nav-link" href="about.html">About</a></h4>
+</nav>
+
+<div class="container">
+    <h2>About</h2>
+    <p></p>
+    <p> This demo is part of a larger research project that aims to extract structured information from 10-K filings to
+        answer interesting questions in operations research and organizational behavior. For example:</p>
+    <ul>
+        <li>Given disclosures of named competitors are voluntary, what motivates a company to disclose? Is it
+            strategic?
+        </li>
+        <li>Can we utilize network-analysis to get a measure of industry diversification for a given company?</li>
+    </ul>
+
+    <h2>Related Works</h2>
+    <p></p>
+    <p>Research involving large-scale textual analysis of 10-K filings has shown great promise in
+        <a href="http://https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1520062">industry classification</a>,
+        <a href="http://https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2160846">stock valuations</a>,
+        <a href="http://http://www.sciencedirect.com/science/article/pii/S0304405X13002328">IPO pricings</a>, etc.
+
+        <br><br>This project is the first in this line of research to look at competitor mentions in 10-K filings.
+
+    </p>
+
+    <h2>Methodology</h2>
+    <p></p>
+    <dl class="row">
+        <dt class="col-sm-3">Data Extraction</dt>
+        <dd class="col-sm-9">10-K filings were crawled from SEC EDGAR database.</dd>
+
+        <dt class="col-sm-3">Parsing</dt>
+        <dd class="col-sm-9">HTML documents were converted to text and competition sections were parsed using a
+            probabilistic
+            parsing method.
+        </dd>
+
+        <dt class="col-sm-3">Extraction of Proper Nouns</dt>
+        <dd class="col-sm-9">Proper nouns were extracted using part-of-speech tagging and named entity recognition.</dd>
+
+        <dt class="col-sm-3">Filtering of Companies</dt>
+        <dd class="col-sm-9">A subset of proper nouns were identified as companies through collaborative filtering using
+            Google Knowledge Graph API and Wikipedia.
+        </dd>
+
+        <dt class="col-sm-3 text-truncate">Company Mapping</dt>
+        <dd class="col-sm-9">The above method was also used to canonacalize company names. For example, [Amazon.com,
+            Amazom Inc., Amazon] -> Amazon.
+        </dd>
+
+
+    </dl>
+</div>
+<footer class="footer">
+    <div class="container">
+        <span class="text-muted">Prasanna Parasurama
+            <a href="http://github.com/parasurama"><i class="fa fa-github" aria-hidden="true"></i></a>
+            <a href="https://medium.com/@parasu"><i class="fa fa-medium" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/prasanna-parasurama-93817b111"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+            | d3 Based on <a href="http://bl.ocks.org/eyaler/10586116">eyelar</a></span>
+    </div>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"
+        integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn"
+        crossorigin="anonymous"></script>
+</body>
+</html>

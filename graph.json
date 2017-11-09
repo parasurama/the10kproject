@@ -1,0 +1,9989 @@
+{
+  "graph": [],
+  "links": [
+    {
+      "source": 701,
+      "target": 613
+    },
+    {
+      "source": 701,
+      "target": 561
+    },
+    {
+      "source": 701,
+      "target": 898
+    },
+    {
+      "source": 701,
+      "target": 249
+    },
+    {
+      "source": 701,
+      "target": 151
+    },
+    {
+      "source": 701,
+      "target": 848
+    },
+    {
+      "source": 701,
+      "target": 388
+    },
+    {
+      "source": 701,
+      "target": 1064
+    },
+    {
+      "source": 701,
+      "target": 33
+    },
+    {
+      "source": 701,
+      "target": 705
+    },
+    {
+      "source": 701,
+      "target": 688
+    },
+    {
+      "source": 701,
+      "target": 877
+    },
+    {
+      "source": 701,
+      "target": 1020
+    },
+    {
+      "source": 631,
+      "target": 968
+    },
+    {
+      "source": 631,
+      "target": 562
+    },
+    {
+      "source": 631,
+      "target": 18
+    },
+    {
+      "source": 631,
+      "target": 413
+    },
+    {
+      "source": 631,
+      "target": 525
+    },
+    {
+      "source": 145,
+      "target": 119
+    },
+    {
+      "source": 145,
+      "target": 437
+    },
+    {
+      "source": 145,
+      "target": 95
+    },
+    {
+      "source": 145,
+      "target": 455
+    },
+    {
+      "source": 145,
+      "target": 367
+    },
+    {
+      "source": 145,
+      "target": 64
+    },
+    {
+      "source": 145,
+      "target": 856
+    },
+    {
+      "source": 145,
+      "target": 732
+    },
+    {
+      "source": 709,
+      "target": 763
+    },
+    {
+      "source": 709,
+      "target": 505
+    },
+    {
+      "source": 709,
+      "target": 535
+    },
+    {
+      "source": 709,
+      "target": 581
+    },
+    {
+      "source": 709,
+      "target": 940
+    },
+    {
+      "source": 709,
+      "target": 185
+    },
+    {
+      "source": 709,
+      "target": 197
+    },
+    {
+      "source": 799,
+      "target": 27
+    },
+    {
+      "source": 799,
+      "target": 223
+    },
+    {
+      "source": 799,
+      "target": 850
+    },
+    {
+      "source": 799,
+      "target": 258
+    },
+    {
+      "source": 799,
+      "target": 219
+    },
+    {
+      "source": 420,
+      "target": 916
+    },
+    {
+      "source": 420,
+      "target": 458
+    },
+    {
+      "source": 740,
+      "target": 978
+    },
+    {
+      "source": 740,
+      "target": 114
+    },
+    {
+      "source": 740,
+      "target": 784
+    },
+    {
+      "source": 740,
+      "target": 491
+    },
+    {
+      "source": 740,
+      "target": 826
+    },
+    {
+      "source": 392,
+      "target": 263
+    },
+    {
+      "source": 392,
+      "target": 222
+    },
+    {
+      "source": 392,
+      "target": 555
+    },
+    {
+      "source": 392,
+      "target": 660
+    },
+    {
+      "source": 392,
+      "target": 755
+    },
+    {
+      "source": 392,
+      "target": 397
+    },
+    {
+      "source": 618,
+      "target": 1105
+    },
+    {
+      "source": 113,
+      "target": 214
+    },
+    {
+      "source": 113,
+      "target": 191
+    },
+    {
+      "source": 113,
+      "target": 875
+    },
+    {
+      "source": 113,
+      "target": 193
+    },
+    {
+      "source": 191,
+      "target": 216
+    },
+    {
+      "source": 191,
+      "target": 517
+    },
+    {
+      "source": 191,
+      "target": 666
+    },
+    {
+      "source": 191,
+      "target": 875
+    },
+    {
+      "source": 191,
+      "target": 214
+    },
+    {
+      "source": 191,
+      "target": 546
+    },
+    {
+      "source": 191,
+      "target": 946
+    },
+    {
+      "source": 191,
+      "target": 499
+    },
+    {
+      "source": 191,
+      "target": 864
+    },
+    {
+      "source": 7,
+      "target": 396
+    },
+    {
+      "source": 7,
+      "target": 907
+    },
+    {
+      "source": 7,
+      "target": 1100
+    },
+    {
+      "source": 7,
+      "target": 691
+    },
+    {
+      "source": 7,
+      "target": 512
+    },
+    {
+      "source": 7,
+      "target": 124
+    },
+    {
+      "source": 7,
+      "target": 612
+    },
+    {
+      "source": 7,
+      "target": 415
+    },
+    {
+      "source": 7,
+      "target": 168
+    },
+    {
+      "source": 640,
+      "target": 763
+    },
+    {
+      "source": 640,
+      "target": 1098
+    },
+    {
+      "source": 640,
+      "target": 535
+    },
+    {
+      "source": 640,
+      "target": 46
+    },
+    {
+      "source": 640,
+      "target": 709
+    },
+    {
+      "source": 640,
+      "target": 197
+    },
+    {
+      "source": 1079,
+      "target": 959
+    },
+    {
+      "source": 1079,
+      "target": 295
+    },
+    {
+      "source": 51,
+      "target": 264
+    },
+    {
+      "source": 51,
+      "target": 667
+    },
+    {
+      "source": 51,
+      "target": 655
+    },
+    {
+      "source": 51,
+      "target": 1082
+    },
+    {
+      "source": 51,
+      "target": 617
+    },
+    {
+      "source": 33,
+      "target": 613
+    },
+    {
+      "source": 33,
+      "target": 561
+    },
+    {
+      "source": 33,
+      "target": 1008
+    },
+    {
+      "source": 33,
+      "target": 355
+    },
+    {
+      "source": 33,
+      "target": 151
+    },
+    {
+      "source": 33,
+      "target": 642
+    },
+    {
+      "source": 33,
+      "target": 463
+    },
+    {
+      "source": 33,
+      "target": 1064
+    },
+    {
+      "source": 33,
+      "target": 845
+    },
+    {
+      "source": 33,
+      "target": 653
+    },
+    {
+      "source": 33,
+      "target": 502
+    },
+    {
+      "source": 33,
+      "target": 639
+    },
+    {
+      "source": 457,
+      "target": 936
+    },
+    {
+      "source": 457,
+      "target": 836
+    },
+    {
+      "source": 178,
+      "target": 820
+    },
+    {
+      "source": 836,
+      "target": 316
+    },
+    {
+      "source": 836,
+      "target": 448
+    },
+    {
+      "source": 836,
+      "target": 234
+    },
+    {
+      "source": 836,
+      "target": 1059
+    },
+    {
+      "source": 836,
+      "target": 638
+    },
+    {
+      "source": 836,
+      "target": 936
+    },
+    {
+      "source": 836,
+      "target": 90
+    },
+    {
+      "source": 836,
+      "target": 963
+    },
+    {
+      "source": 836,
+      "target": 838
+    },
+    {
+      "source": 157,
+      "target": 931
+    },
+    {
+      "source": 157,
+      "target": 296
+    },
+    {
+      "source": 5,
+      "target": 169
+    },
+    {
+      "source": 5,
+      "target": 844
+    },
+    {
+      "source": 5,
+      "target": 105
+    },
+    {
+      "source": 5,
+      "target": 776
+    },
+    {
+      "source": 5,
+      "target": 384
+    },
+    {
+      "source": 5,
+      "target": 340
+    },
+    {
+      "source": 5,
+      "target": 1070
+    },
+    {
+      "source": 5,
+      "target": 567
+    },
+    {
+      "source": 5,
+      "target": 597
+    },
+    {
+      "source": 5,
+      "target": 1056
+    },
+    {
+      "source": 250,
+      "target": 869
+    },
+    {
+      "source": 250,
+      "target": 1023
+    },
+    {
+      "source": 250,
+      "target": 774
+    },
+    {
+      "source": 250,
+      "target": 328
+    },
+    {
+      "source": 250,
+      "target": 386
+    },
+    {
+      "source": 250,
+      "target": 984
+    },
+    {
+      "source": 250,
+      "target": 400
+    },
+    {
+      "source": 250,
+      "target": 92
+    },
+    {
+      "source": 250,
+      "target": 695
+    },
+    {
+      "source": 250,
+      "target": 89
+    },
+    {
+      "source": 250,
+      "target": 580
+    },
+    {
+      "source": 250,
+      "target": 1011
+    },
+    {
+      "source": 983,
+      "target": 398
+    },
+    {
+      "source": 84,
+      "target": 962
+    },
+    {
+      "source": 626,
+      "target": 104
+    },
+    {
+      "source": 170,
+      "target": 154
+    },
+    {
+      "source": 592,
+      "target": 119
+    },
+    {
+      "source": 592,
+      "target": 374
+    },
+    {
+      "source": 592,
+      "target": 552
+    },
+    {
+      "source": 592,
+      "target": 456
+    },
+    {
+      "source": 592,
+      "target": 223
+    },
+    {
+      "source": 592,
+      "target": 761
+    },
+    {
+      "source": 592,
+      "target": 98
+    },
+    {
+      "source": 592,
+      "target": 334
+    },
+    {
+      "source": 592,
+      "target": 684
+    },
+    {
+      "source": 593,
+      "target": 499
+    },
+    {
+      "source": 214,
+      "target": 113
+    },
+    {
+      "source": 214,
+      "target": 308
+    },
+    {
+      "source": 214,
+      "target": 875
+    },
+    {
+      "source": 214,
+      "target": 359
+    },
+    {
+      "source": 214,
+      "target": 546
+    },
+    {
+      "source": 214,
+      "target": 1103
+    },
+    {
+      "source": 214,
+      "target": 191
+    },
+    {
+      "source": 214,
+      "target": 499
+    },
+    {
+      "source": 214,
+      "target": 864
+    },
+    {
+      "source": 776,
+      "target": 288
+    },
+    {
+      "source": 776,
+      "target": 923
+    },
+    {
+      "source": 776,
+      "target": 785
+    },
+    {
+      "source": 776,
+      "target": 384
+    },
+    {
+      "source": 776,
+      "target": 512
+    },
+    {
+      "source": 776,
+      "target": 516
+    },
+    {
+      "source": 776,
+      "target": 597
+    },
+    {
+      "source": 776,
+      "target": 124
+    },
+    {
+      "source": 776,
+      "target": 260
+    },
+    {
+      "source": 336,
+      "target": 430
+    },
+    {
+      "source": 336,
+      "target": 226
+    },
+    {
+      "source": 336,
+      "target": 1054
+    },
+    {
+      "source": 336,
+      "target": 589
+    },
+    {
+      "source": 336,
+      "target": 935
+    },
+    {
+      "source": 336,
+      "target": 528
+    },
+    {
+      "source": 186,
+      "target": 1016
+    },
+    {
+      "source": 186,
+      "target": 403
+    },
+    {
+      "source": 186,
+      "target": 515
+    },
+    {
+      "source": 186,
+      "target": 140
+    },
+    {
+      "source": 186,
+      "target": 151
+    },
+    {
+      "source": 186,
+      "target": 357
+    },
+    {
+      "source": 186,
+      "target": 662
+    },
+    {
+      "source": 186,
+      "target": 588
+    },
+    {
+      "source": 186,
+      "target": 270
+    },
+    {
+      "source": 186,
+      "target": 561
+    },
+    {
+      "source": 186,
+      "target": 309
+    },
+    {
+      "source": 186,
+      "target": 999
+    },
+    {
+      "source": 186,
+      "target": 992
+    },
+    {
+      "source": 186,
+      "target": 1066
+    },
+    {
+      "source": 186,
+      "target": 770
+    },
+    {
+      "source": 186,
+      "target": 823
+    },
+    {
+      "source": 186,
+      "target": 834
+    },
+    {
+      "source": 186,
+      "target": 614
+    },
+    {
+      "source": 186,
+      "target": 481
+    },
+    {
+      "source": 186,
+      "target": 269
+    },
+    {
+      "source": 186,
+      "target": 251
+    },
+    {
+      "source": 186,
+      "target": 1095
+    },
+    {
+      "source": 186,
+      "target": 744
+    },
+    {
+      "source": 186,
+      "target": 628
+    },
+    {
+      "source": 186,
+      "target": 477
+    },
+    {
+      "source": 186,
+      "target": 33
+    },
+    {
+      "source": 186,
+      "target": 787
+    },
+    {
+      "source": 186,
+      "target": 751
+    },
+    {
+      "source": 186,
+      "target": 713
+    },
+    {
+      "source": 186,
+      "target": 480
+    },
+    {
+      "source": 186,
+      "target": 743
+    },
+    {
+      "source": 186,
+      "target": 529
+    },
+    {
+      "source": 186,
+      "target": 377
+    },
+    {
+      "source": 186,
+      "target": 872
+    },
+    {
+      "source": 186,
+      "target": 306
+    },
+    {
+      "source": 186,
+      "target": 686
+    },
+    {
+      "source": 186,
+      "target": 133
+    },
+    {
+      "source": 186,
+      "target": 1065
+    },
+    {
+      "source": 186,
+      "target": 435
+    },
+    {
+      "source": 186,
+      "target": 240
+    },
+    {
+      "source": 186,
+      "target": 966
+    },
+    {
+      "source": 186,
+      "target": 641
+    },
+    {
+      "source": 656,
+      "target": 652
+    },
+    {
+      "source": 656,
+      "target": 1090
+    },
+    {
+      "source": 656,
+      "target": 670
+    },
+    {
+      "source": 656,
+      "target": 151
+    },
+    {
+      "source": 656,
+      "target": 171
+    },
+    {
+      "source": 656,
+      "target": 704
+    },
+    {
+      "source": 656,
+      "target": 147
+    },
+    {
+      "source": 656,
+      "target": 421
+    },
+    {
+      "source": 656,
+      "target": 885
+    },
+    {
+      "source": 656,
+      "target": 882
+    },
+    {
+      "source": 656,
+      "target": 255
+    },
+    {
+      "source": 656,
+      "target": 91
+    },
+    {
+      "source": 656,
+      "target": 584
+    },
+    {
+      "source": 656,
+      "target": 68
+    },
+    {
+      "source": 656,
+      "target": 553
+    },
+    {
+      "source": 656,
+      "target": 960
+    },
+    {
+      "source": 656,
+      "target": 973
+    },
+    {
+      "source": 656,
+      "target": 412
+    },
+    {
+      "source": 656,
+      "target": 464
+    },
+    {
+      "source": 656,
+      "target": 33
+    },
+    {
+      "source": 656,
+      "target": 9
+    },
+    {
+      "source": 656,
+      "target": 134
+    },
+    {
+      "source": 656,
+      "target": 310
+    },
+    {
+      "source": 656,
+      "target": 1012
+    },
+    {
+      "source": 656,
+      "target": 1011
+    },
+    {
+      "source": 656,
+      "target": 55
+    },
+    {
+      "source": 656,
+      "target": 859
+    },
+    {
+      "source": 656,
+      "target": 1063
+    },
+    {
+      "source": 656,
+      "target": 160
+    },
+    {
+      "source": 656,
+      "target": 382
+    },
+    {
+      "source": 656,
+      "target": 350
+    },
+    {
+      "source": 656,
+      "target": 731
+    },
+    {
+      "source": 656,
+      "target": 305
+    },
+    {
+      "source": 656,
+      "target": 989
+    },
+    {
+      "source": 656,
+      "target": 363
+    },
+    {
+      "source": 656,
+      "target": 739
+    },
+    {
+      "source": 656,
+      "target": 924
+    },
+    {
+      "source": 656,
+      "target": 1076
+    },
+    {
+      "source": 266,
+      "target": 710
+    },
+    {
+      "source": 266,
+      "target": 94
+    },
+    {
+      "source": 266,
+      "target": 572
+    },
+    {
+      "source": 266,
+      "target": 801
+    },
+    {
+      "source": 266,
+      "target": 127
+    },
+    {
+      "source": 266,
+      "target": 1020
+    },
+    {
+      "source": 266,
+      "target": 264
+    },
+    {
+      "source": 266,
+      "target": 1052
+    },
+    {
+      "source": 266,
+      "target": 325
+    },
+    {
+      "source": 266,
+      "target": 349
+    },
+    {
+      "source": 266,
+      "target": 302
+    },
+    {
+      "source": 266,
+      "target": 684
+    },
+    {
+      "source": 266,
+      "target": 164
+    },
+    {
+      "source": 266,
+      "target": 533
+    },
+    {
+      "source": 266,
+      "target": 33
+    },
+    {
+      "source": 266,
+      "target": 50
+    },
+    {
+      "source": 266,
+      "target": 777
+    },
+    {
+      "source": 266,
+      "target": 696
+    },
+    {
+      "source": 266,
+      "target": 370
+    },
+    {
+      "source": 266,
+      "target": 1013
+    },
+    {
+      "source": 266,
+      "target": 940
+    },
+    {
+      "source": 266,
+      "target": 1041
+    },
+    {
+      "source": 266,
+      "target": 438
+    },
+    {
+      "source": 964,
+      "target": 611
+    },
+    {
+      "source": 964,
+      "target": 754
+    },
+    {
+      "source": 964,
+      "target": 936
+    },
+    {
+      "source": 1062,
+      "target": 548
+    },
+    {
+      "source": 772,
+      "target": 73
+    },
+    {
+      "source": 772,
+      "target": 61
+    },
+    {
+      "source": 772,
+      "target": 1081
+    },
+    {
+      "source": 772,
+      "target": 396
+    },
+    {
+      "source": 772,
+      "target": 124
+    },
+    {
+      "source": 840,
+      "target": 437
+    },
+    {
+      "source": 840,
+      "target": 347
+    },
+    {
+      "source": 840,
+      "target": 773
+    },
+    {
+      "source": 840,
+      "target": 175
+    },
+    {
+      "source": 840,
+      "target": 380
+    },
+    {
+      "source": 840,
+      "target": 766
+    },
+    {
+      "source": 9,
+      "target": 153
+    },
+    {
+      "source": 9,
+      "target": 171
+    },
+    {
+      "source": 9,
+      "target": 324
+    },
+    {
+      "source": 9,
+      "target": 310
+    },
+    {
+      "source": 9,
+      "target": 543
+    },
+    {
+      "source": 9,
+      "target": 68
+    },
+    {
+      "source": 238,
+      "target": 878
+    },
+    {
+      "source": 851,
+      "target": 43
+    },
+    {
+      "source": 851,
+      "target": 886
+    },
+    {
+      "source": 851,
+      "target": 778
+    },
+    {
+      "source": 851,
+      "target": 493
+    },
+    {
+      "source": 851,
+      "target": 212
+    },
+    {
+      "source": 851,
+      "target": 495
+    },
+    {
+      "source": 851,
+      "target": 868
+    },
+    {
+      "source": 851,
+      "target": 19
+    },
+    {
+      "source": 851,
+      "target": 38
+    },
+    {
+      "source": 851,
+      "target": 1083
+    },
+    {
+      "source": 851,
+      "target": 507
+    },
+    {
+      "source": 851,
+      "target": 1022
+    },
+    {
+      "source": 851,
+      "target": 908
+    },
+    {
+      "source": 851,
+      "target": 131
+    },
+    {
+      "source": 851,
+      "target": 414
+    },
+    {
+      "source": 851,
+      "target": 554
+    },
+    {
+      "source": 652,
+      "target": 255
+    },
+    {
+      "source": 652,
+      "target": 561
+    },
+    {
+      "source": 652,
+      "target": 775
+    },
+    {
+      "source": 652,
+      "target": 1036
+    },
+    {
+      "source": 652,
+      "target": 160
+    },
+    {
+      "source": 652,
+      "target": 885
+    },
+    {
+      "source": 652,
+      "target": 464
+    },
+    {
+      "source": 652,
+      "target": 151
+    },
+    {
+      "source": 652,
+      "target": 731
+    },
+    {
+      "source": 652,
+      "target": 33
+    },
+    {
+      "source": 652,
+      "target": 502
+    },
+    {
+      "source": 652,
+      "target": 421
+    },
+    {
+      "source": 652,
+      "target": 411
+    },
+    {
+      "source": 286,
+      "target": 308
+    },
+    {
+      "source": 286,
+      "target": 472
+    },
+    {
+      "source": 286,
+      "target": 335
+    },
+    {
+      "source": 286,
+      "target": 460
+    },
+    {
+      "source": 286,
+      "target": 583
+    },
+    {
+      "source": 21,
+      "target": 119
+    },
+    {
+      "source": 21,
+      "target": 110
+    },
+    {
+      "source": 21,
+      "target": 145
+    },
+    {
+      "source": 21,
+      "target": 312
+    },
+    {
+      "source": 21,
+      "target": 279
+    },
+    {
+      "source": 21,
+      "target": 52
+    },
+    {
+      "source": 21,
+      "target": 615
+    },
+    {
+      "source": 21,
+      "target": 1009
+    },
+    {
+      "source": 21,
+      "target": 148
+    },
+    {
+      "source": 21,
+      "target": 698
+    },
+    {
+      "source": 21,
+      "target": 922
+    },
+    {
+      "source": 21,
+      "target": 356
+    },
+    {
+      "source": 1068,
+      "target": 151
+    },
+    {
+      "source": 1068,
+      "target": 985
+    },
+    {
+      "source": 1068,
+      "target": 1021
+    },
+    {
+      "source": 1068,
+      "target": 1064
+    },
+    {
+      "source": 1068,
+      "target": 1020
+    },
+    {
+      "source": 1068,
+      "target": 561
+    },
+    {
+      "source": 1068,
+      "target": 727
+    },
+    {
+      "source": 1068,
+      "target": 938
+    },
+    {
+      "source": 1068,
+      "target": 585
+    },
+    {
+      "source": 1068,
+      "target": 1003
+    },
+    {
+      "source": 1068,
+      "target": 665
+    },
+    {
+      "source": 1068,
+      "target": 1014
+    },
+    {
+      "source": 1068,
+      "target": 613
+    },
+    {
+      "source": 1068,
+      "target": 337
+    },
+    {
+      "source": 1068,
+      "target": 101
+    },
+    {
+      "source": 1068,
+      "target": 894
+    },
+    {
+      "source": 1068,
+      "target": 144
+    },
+    {
+      "source": 1068,
+      "target": 67
+    },
+    {
+      "source": 1068,
+      "target": 847
+    },
+    {
+      "source": 1068,
+      "target": 33
+    },
+    {
+      "source": 1068,
+      "target": 606
+    },
+    {
+      "source": 1068,
+      "target": 1091
+    },
+    {
+      "source": 6,
+      "target": 621
+    },
+    {
+      "source": 6,
+      "target": 103
+    },
+    {
+      "source": 569,
+      "target": 476
+    },
+    {
+      "source": 569,
+      "target": 146
+    },
+    {
+      "source": 569,
+      "target": 8
+    },
+    {
+      "source": 569,
+      "target": 745
+    },
+    {
+      "source": 569,
+      "target": 1096
+    },
+    {
+      "source": 569,
+      "target": 422
+    },
+    {
+      "source": 569,
+      "target": 730
+    },
+    {
+      "source": 569,
+      "target": 967
+    },
+    {
+      "source": 569,
+      "target": 409
+    },
+    {
+      "source": 569,
+      "target": 343
+    },
+    {
+      "source": 569,
+      "target": 149
+    },
+    {
+      "source": 381,
+      "target": 1048
+    },
+    {
+      "source": 381,
+      "target": 590
+    },
+    {
+      "source": 381,
+      "target": 868
+    },
+    {
+      "source": 381,
+      "target": 945
+    },
+    {
+      "source": 381,
+      "target": 574
+    },
+    {
+      "source": 381,
+      "target": 343
+    },
+    {
+      "source": 381,
+      "target": 428
+    },
+    {
+      "source": 381,
+      "target": 648
+    },
+    {
+      "source": 381,
+      "target": 206
+    },
+    {
+      "source": 381,
+      "target": 1020
+    },
+    {
+      "source": 866,
+      "target": 808
+    },
+    {
+      "source": 866,
+      "target": 536
+    },
+    {
+      "source": 866,
+      "target": 42
+    },
+    {
+      "source": 866,
+      "target": 341
+    },
+    {
+      "source": 866,
+      "target": 850
+    },
+    {
+      "source": 866,
+      "target": 138
+    },
+    {
+      "source": 571,
+      "target": 669
+    },
+    {
+      "source": 571,
+      "target": 262
+    },
+    {
+      "source": 721,
+      "target": 1039
+    },
+    {
+      "source": 1011,
+      "target": 69
+    },
+    {
+      "source": 1011,
+      "target": 250
+    },
+    {
+      "source": 1011,
+      "target": 1049
+    },
+    {
+      "source": 1011,
+      "target": 328
+    },
+    {
+      "source": 1011,
+      "target": 984
+    },
+    {
+      "source": 1011,
+      "target": 66
+    },
+    {
+      "source": 1011,
+      "target": 695
+    },
+    {
+      "source": 1011,
+      "target": 453
+    },
+    {
+      "source": 1011,
+      "target": 961
+    },
+    {
+      "source": 1011,
+      "target": 181
+    },
+    {
+      "source": 1011,
+      "target": 1045
+    },
+    {
+      "source": 1011,
+      "target": 683
+    },
+    {
+      "source": 1011,
+      "target": 925
+    },
+    {
+      "source": 521,
+      "target": 932
+    },
+    {
+      "source": 746,
+      "target": 630
+    },
+    {
+      "source": 746,
+      "target": 404
+    },
+    {
+      "source": 746,
+      "target": 1028
+    },
+    {
+      "source": 746,
+      "target": 490
+    },
+    {
+      "source": 746,
+      "target": 272
+    },
+    {
+      "source": 746,
+      "target": 174
+    },
+    {
+      "source": 746,
+      "target": 671
+    },
+    {
+      "source": 256,
+      "target": 917
+    },
+    {
+      "source": 256,
+      "target": 644
+    },
+    {
+      "source": 57,
+      "target": 492
+    },
+    {
+      "source": 77,
+      "target": 879
+    },
+    {
+      "source": 77,
+      "target": 933
+    },
+    {
+      "source": 77,
+      "target": 936
+    },
+    {
+      "source": 77,
+      "target": 1024
+    },
+    {
+      "source": 77,
+      "target": 836
+    },
+    {
+      "source": 979,
+      "target": 757
+    },
+    {
+      "source": 979,
+      "target": 1098
+    },
+    {
+      "source": 979,
+      "target": 121
+    },
+    {
+      "source": 1021,
+      "target": 768
+    },
+    {
+      "source": 1021,
+      "target": 273
+    },
+    {
+      "source": 371,
+      "target": 63
+    },
+    {
+      "source": 955,
+      "target": 292
+    },
+    {
+      "source": 455,
+      "target": 119
+    },
+    {
+      "source": 455,
+      "target": 145
+    },
+    {
+      "source": 455,
+      "target": 466
+    },
+    {
+      "source": 455,
+      "target": 698
+    },
+    {
+      "source": 939,
+      "target": 609
+    },
+    {
+      "source": 939,
+      "target": 722
+    },
+    {
+      "source": 939,
+      "target": 205
+    },
+    {
+      "source": 939,
+      "target": 1101
+    },
+    {
+      "source": 939,
+      "target": 797
+    },
+    {
+      "source": 939,
+      "target": 177
+    },
+    {
+      "source": 906,
+      "target": 360
+    },
+    {
+      "source": 906,
+      "target": 809
+    },
+    {
+      "source": 906,
+      "target": 788
+    },
+    {
+      "source": 906,
+      "target": 750
+    },
+    {
+      "source": 906,
+      "target": 49
+    },
+    {
+      "source": 906,
+      "target": 1029
+    },
+    {
+      "source": 906,
+      "target": 1051
+    },
+    {
+      "source": 906,
+      "target": 544
+    },
+    {
+      "source": 906,
+      "target": 1018
+    },
+    {
+      "source": 906,
+      "target": 152
+    },
+    {
+      "source": 906,
+      "target": 72
+    },
+    {
+      "source": 906,
+      "target": 198
+    },
+    {
+      "source": 161,
+      "target": 235
+    },
+    {
+      "source": 161,
+      "target": 568
+    },
+    {
+      "source": 231,
+      "target": 575
+    },
+    {
+      "source": 395,
+      "target": 844
+    },
+    {
+      "source": 395,
+      "target": 183
+    },
+    {
+      "source": 395,
+      "target": 105
+    },
+    {
+      "source": 395,
+      "target": 391
+    },
+    {
+      "source": 395,
+      "target": 384
+    },
+    {
+      "source": 395,
+      "target": 567
+    },
+    {
+      "source": 395,
+      "target": 1070
+    },
+    {
+      "source": 395,
+      "target": 518
+    },
+    {
+      "source": 395,
+      "target": 340
+    },
+    {
+      "source": 395,
+      "target": 1056
+    },
+    {
+      "source": 395,
+      "target": 702
+    },
+    {
+      "source": 395,
+      "target": 789
+    },
+    {
+      "source": 395,
+      "target": 346
+    },
+    {
+      "source": 42,
+      "target": 116
+    },
+    {
+      "source": 42,
+      "target": 611
+    },
+    {
+      "source": 42,
+      "target": 850
+    },
+    {
+      "source": 42,
+      "target": 138
+    },
+    {
+      "source": 975,
+      "target": 291
+    },
+    {
+      "source": 468,
+      "target": 783
+    },
+    {
+      "source": 913,
+      "target": 1095
+    },
+    {
+      "source": 913,
+      "target": 213
+    },
+    {
+      "source": 913,
+      "target": 283
+    },
+    {
+      "source": 913,
+      "target": 151
+    },
+    {
+      "source": 913,
+      "target": 1021
+    },
+    {
+      "source": 913,
+      "target": 81
+    },
+    {
+      "source": 913,
+      "target": 787
+    },
+    {
+      "source": 913,
+      "target": 1106
+    },
+    {
+      "source": 913,
+      "target": 33
+    },
+    {
+      "source": 913,
+      "target": 665
+    },
+    {
+      "source": 913,
+      "target": 570
+    },
+    {
+      "source": 291,
+      "target": 498
+    },
+    {
+      "source": 291,
+      "target": 373
+    },
+    {
+      "source": 291,
+      "target": 1020
+    },
+    {
+      "source": 291,
+      "target": 644
+    },
+    {
+      "source": 291,
+      "target": 378
+    },
+    {
+      "source": 291,
+      "target": 201
+    },
+    {
+      "source": 291,
+      "target": 158
+    },
+    {
+      "source": 291,
+      "target": 841
+    },
+    {
+      "source": 291,
+      "target": 117
+    },
+    {
+      "source": 291,
+      "target": 575
+    },
+    {
+      "source": 291,
+      "target": 195
+    },
+    {
+      "source": 291,
+      "target": 965
+    },
+    {
+      "source": 291,
+      "target": 595
+    },
+    {
+      "source": 291,
+      "target": 544
+    },
+    {
+      "source": 291,
+      "target": 333
+    },
+    {
+      "source": 291,
+      "target": 678
+    },
+    {
+      "source": 291,
+      "target": 63
+    },
+    {
+      "source": 291,
+      "target": 364
+    },
+    {
+      "source": 291,
+      "target": 150
+    },
+    {
+      "source": 291,
+      "target": 658
+    },
+    {
+      "source": 291,
+      "target": 268
+    },
+    {
+      "source": 291,
+      "target": 991
+    },
+    {
+      "source": 291,
+      "target": 199
+    },
+    {
+      "source": 291,
+      "target": 431
+    },
+    {
+      "source": 329,
+      "target": 1038
+    },
+    {
+      "source": 920,
+      "target": 440
+    },
+    {
+      "source": 920,
+      "target": 471
+    },
+    {
+      "source": 920,
+      "target": 250
+    },
+    {
+      "source": 920,
+      "target": 605
+    },
+    {
+      "source": 920,
+      "target": 947
+    },
+    {
+      "source": 192,
+      "target": 449
+    },
+    {
+      "source": 192,
+      "target": 779
+    },
+    {
+      "source": 192,
+      "target": 221
+    },
+    {
+      "source": 192,
+      "target": 120
+    },
+    {
+      "source": 213,
+      "target": 151
+    },
+    {
+      "source": 213,
+      "target": 787
+    },
+    {
+      "source": 213,
+      "target": 259
+    },
+    {
+      "source": 213,
+      "target": 713
+    },
+    {
+      "source": 762,
+      "target": 448
+    },
+    {
+      "source": 762,
+      "target": 754
+    },
+    {
+      "source": 762,
+      "target": 335
+    },
+    {
+      "source": 762,
+      "target": 936
+    },
+    {
+      "source": 762,
+      "target": 933
+    },
+    {
+      "source": 762,
+      "target": 176
+    },
+    {
+      "source": 762,
+      "target": 836
+    },
+    {
+      "source": 579,
+      "target": 883
+    },
+    {
+      "source": 473,
+      "target": 892
+    },
+    {
+      "source": 647,
+      "target": 1095
+    },
+    {
+      "source": 647,
+      "target": 161
+    },
+    {
+      "source": 647,
+      "target": 734
+    },
+    {
+      "source": 647,
+      "target": 643
+    },
+    {
+      "source": 647,
+      "target": 361
+    },
+    {
+      "source": 647,
+      "target": 998
+    },
+    {
+      "source": 647,
+      "target": 474
+    },
+    {
+      "source": 647,
+      "target": 320
+    },
+    {
+      "source": 647,
+      "target": 44
+    },
+    {
+      "source": 647,
+      "target": 781
+    },
+    {
+      "source": 546,
+      "target": 864
+    },
+    {
+      "source": 48,
+      "target": 459
+    },
+    {
+      "source": 454,
+      "target": 644
+    },
+    {
+      "source": 69,
+      "target": 695
+    },
+    {
+      "source": 69,
+      "target": 250
+    },
+    {
+      "source": 69,
+      "target": 1011
+    },
+    {
+      "source": 936,
+      "target": 119
+    },
+    {
+      "source": 936,
+      "target": 14
+    },
+    {
+      "source": 936,
+      "target": 70
+    },
+    {
+      "source": 936,
+      "target": 837
+    },
+    {
+      "source": 936,
+      "target": 1084
+    },
+    {
+      "source": 936,
+      "target": 545
+    },
+    {
+      "source": 936,
+      "target": 888
+    },
+    {
+      "source": 936,
+      "target": 798
+    },
+    {
+      "source": 936,
+      "target": 724
+    },
+    {
+      "source": 936,
+      "target": 501
+    },
+    {
+      "source": 936,
+      "target": 441
+    },
+    {
+      "source": 711,
+      "target": 720
+    },
+    {
+      "source": 711,
+      "target": 622
+    },
+    {
+      "source": 540,
+      "target": 835
+    },
+    {
+      "source": 540,
+      "target": 102
+    },
+    {
+      "source": 540,
+      "target": 429
+    },
+    {
+      "source": 540,
+      "target": 620
+    },
+    {
+      "source": 544,
+      "target": 906
+    },
+    {
+      "source": 544,
+      "target": 93
+    },
+    {
+      "source": 544,
+      "target": 918
+    },
+    {
+      "source": 544,
+      "target": 72
+    },
+    {
+      "source": 544,
+      "target": 217
+    },
+    {
+      "source": 16,
+      "target": 167
+    },
+    {
+      "source": 16,
+      "target": 151
+    },
+    {
+      "source": 674,
+      "target": 165
+    },
+    {
+      "source": 674,
+      "target": 560
+    },
+    {
+      "source": 674,
+      "target": 699
+    },
+    {
+      "source": 111,
+      "target": 645
+    },
+    {
+      "source": 111,
+      "target": 965
+    },
+    {
+      "source": 232,
+      "target": 56
+    },
+    {
+      "source": 232,
+      "target": 740
+    },
+    {
+      "source": 232,
+      "target": 519
+    },
+    {
+      "source": 232,
+      "target": 654
+    },
+    {
+      "source": 232,
+      "target": 927
+    },
+    {
+      "source": 232,
+      "target": 303
+    },
+    {
+      "source": 795,
+      "target": 17
+    },
+    {
+      "source": 393,
+      "target": 803
+    },
+    {
+      "source": 393,
+      "target": 279
+    },
+    {
+      "source": 393,
+      "target": 1009
+    },
+    {
+      "source": 393,
+      "target": 981
+    },
+    {
+      "source": 393,
+      "target": 204
+    },
+    {
+      "source": 393,
+      "target": 922
+    },
+    {
+      "source": 393,
+      "target": 501
+    },
+    {
+      "source": 956,
+      "target": 338
+    },
+    {
+      "source": 956,
+      "target": 792
+    },
+    {
+      "source": 773,
+      "target": 79
+    },
+    {
+      "source": 314,
+      "target": 293
+    },
+    {
+      "source": 314,
+      "target": 455
+    },
+    {
+      "source": 735,
+      "target": 487
+    },
+    {
+      "source": 60,
+      "target": 40
+    },
+    {
+      "source": 60,
+      "target": 1035
+    },
+    {
+      "source": 60,
+      "target": 284
+    },
+    {
+      "source": 60,
+      "target": 1021
+    },
+    {
+      "source": 60,
+      "target": 1020
+    },
+    {
+      "source": 60,
+      "target": 747
+    },
+    {
+      "source": 60,
+      "target": 342
+    },
+    {
+      "source": 60,
+      "target": 41
+    },
+    {
+      "source": 60,
+      "target": 31
+    },
+    {
+      "source": 60,
+      "target": 665
+    },
+    {
+      "source": 60,
+      "target": 86
+    },
+    {
+      "source": 60,
+      "target": 313
+    },
+    {
+      "source": 60,
+      "target": 416
+    },
+    {
+      "source": 60,
+      "target": 34
+    },
+    {
+      "source": 60,
+      "target": 101
+    },
+    {
+      "source": 60,
+      "target": 911
+    },
+    {
+      "source": 60,
+      "target": 339
+    },
+    {
+      "source": 60,
+      "target": 372
+    },
+    {
+      "source": 60,
+      "target": 578
+    },
+    {
+      "source": 60,
+      "target": 786
+    },
+    {
+      "source": 60,
+      "target": 929
+    },
+    {
+      "source": 60,
+      "target": 586
+    },
+    {
+      "source": 60,
+      "target": 717
+    },
+    {
+      "source": 60,
+      "target": 252
+    },
+    {
+      "source": 112,
+      "target": 47
+    },
+    {
+      "source": 112,
+      "target": 389
+    },
+    {
+      "source": 112,
+      "target": 555
+    },
+    {
+      "source": 112,
+      "target": 62
+    },
+    {
+      "source": 112,
+      "target": 508
+    },
+    {
+      "source": 112,
+      "target": 759
+    },
+    {
+      "source": 112,
+      "target": 542
+    },
+    {
+      "source": 112,
+      "target": 362
+    },
+    {
+      "source": 112,
+      "target": 1077
+    },
+    {
+      "source": 112,
+      "target": 74
+    },
+    {
+      "source": 112,
+      "target": 828
+    },
+    {
+      "source": 172,
+      "target": 651
+    },
+    {
+      "source": 172,
+      "target": 308
+    },
+    {
+      "source": 172,
+      "target": 1050
+    },
+    {
+      "source": 172,
+      "target": 969
+    },
+    {
+      "source": 172,
+      "target": 1033
+    },
+    {
+      "source": 923,
+      "target": 909
+    },
+    {
+      "source": 923,
+      "target": 216
+    },
+    {
+      "source": 923,
+      "target": 229
+    },
+    {
+      "source": 561,
+      "target": 613
+    },
+    {
+      "source": 561,
+      "target": 151
+    },
+    {
+      "source": 137,
+      "target": 1104
+    },
+    {
+      "source": 462,
+      "target": 9
+    },
+    {
+      "source": 209,
+      "target": 425
+    },
+    {
+      "source": 209,
+      "target": 265
+    },
+    {
+      "source": 209,
+      "target": 202
+    },
+    {
+      "source": 209,
+      "target": 780
+    },
+    {
+      "source": 209,
+      "target": 1053
+    },
+    {
+      "source": 209,
+      "target": 96
+    },
+    {
+      "source": 209,
+      "target": 718
+    },
+    {
+      "source": 173,
+      "target": 523
+    },
+    {
+      "source": 442,
+      "target": 106
+    },
+    {
+      "source": 509,
+      "target": 218
+    },
+    {
+      "source": 509,
+      "target": 308
+    },
+    {
+      "source": 509,
+      "target": 1102
+    },
+    {
+      "source": 509,
+      "target": 154
+    },
+    {
+      "source": 509,
+      "target": 541
+    },
+    {
+      "source": 509,
+      "target": 819
+    },
+    {
+      "source": 509,
+      "target": 1045
+    },
+    {
+      "source": 765,
+      "target": 330
+    },
+    {
+      "source": 765,
+      "target": 246
+    },
+    {
+      "source": 765,
+      "target": 115
+    },
+    {
+      "source": 765,
+      "target": 223
+    },
+    {
+      "source": 765,
+      "target": 1042
+    },
+    {
+      "source": 765,
+      "target": 1069
+    },
+    {
+      "source": 765,
+      "target": 287
+    },
+    {
+      "source": 765,
+      "target": 870
+    },
+    {
+      "source": 1050,
+      "target": 1033
+    },
+    {
+      "source": 1050,
+      "target": 172
+    },
+    {
+      "source": 1050,
+      "target": 969
+    },
+    {
+      "source": 1086,
+      "target": 332
+    },
+    {
+      "source": 1086,
+      "target": 901
+    },
+    {
+      "source": 1086,
+      "target": 1071
+    },
+    {
+      "source": 352,
+      "target": 976
+    },
+    {
+      "source": 78,
+      "target": 1095
+    },
+    {
+      "source": 78,
+      "target": 308
+    },
+    {
+      "source": 78,
+      "target": 182
+    },
+    {
+      "source": 78,
+      "target": 700
+    },
+    {
+      "source": 78,
+      "target": 829
+    },
+    {
+      "source": 78,
+      "target": 1045
+    },
+    {
+      "source": 100,
+      "target": 475
+    },
+    {
+      "source": 898,
+      "target": 556
+    },
+    {
+      "source": 898,
+      "target": 94
+    },
+    {
+      "source": 898,
+      "target": 358
+    },
+    {
+      "source": 898,
+      "target": 867
+    },
+    {
+      "source": 898,
+      "target": 504
+    },
+    {
+      "source": 898,
+      "target": 971
+    },
+    {
+      "source": 898,
+      "target": 365
+    },
+    {
+      "source": 898,
+      "target": 769
+    },
+    {
+      "source": 898,
+      "target": 299
+    },
+    {
+      "source": 898,
+      "target": 549
+    },
+    {
+      "source": 898,
+      "target": 712
+    },
+    {
+      "source": 898,
+      "target": 1055
+    },
+    {
+      "source": 898,
+      "target": 701
+    },
+    {
+      "source": 898,
+      "target": 387
+    },
+    {
+      "source": 898,
+      "target": 550
+    },
+    {
+      "source": 937,
+      "target": 737
+    },
+    {
+      "source": 318,
+      "target": 1095
+    },
+    {
+      "source": 318,
+      "target": 833
+    },
+    {
+      "source": 318,
+      "target": 538
+    },
+    {
+      "source": 318,
+      "target": 308
+    },
+    {
+      "source": 318,
+      "target": 210
+    },
+    {
+      "source": 318,
+      "target": 488
+    },
+    {
+      "source": 318,
+      "target": 1005
+    },
+    {
+      "source": 318,
+      "target": 236
+    },
+    {
+      "source": 318,
+      "target": 598
+    },
+    {
+      "source": 318,
+      "target": 1021
+    },
+    {
+      "source": 318,
+      "target": 136
+    },
+    {
+      "source": 318,
+      "target": 426
+    },
+    {
+      "source": 318,
+      "target": 85
+    },
+    {
+      "source": 318,
+      "target": 829
+    },
+    {
+      "source": 331,
+      "target": 1004
+    },
+    {
+      "source": 331,
+      "target": 483
+    },
+    {
+      "source": 331,
+      "target": 815
+    },
+    {
+      "source": 1087,
+      "target": 280
+    },
+    {
+      "source": 715,
+      "target": 459
+    },
+    {
+      "source": 715,
+      "target": 146
+    },
+    {
+      "source": 715,
+      "target": 54
+    },
+    {
+      "source": 715,
+      "target": 868
+    },
+    {
+      "source": 715,
+      "target": 974
+    },
+    {
+      "source": 715,
+      "target": 241
+    },
+    {
+      "source": 715,
+      "target": 1064
+    },
+    {
+      "source": 715,
+      "target": 424
+    },
+    {
+      "source": 715,
+      "target": 849
+    },
+    {
+      "source": 715,
+      "target": 910
+    },
+    {
+      "source": 715,
+      "target": 1020
+    },
+    {
+      "source": 715,
+      "target": 83
+    },
+    {
+      "source": 715,
+      "target": 703
+    },
+    {
+      "source": 715,
+      "target": 1095
+    },
+    {
+      "source": 715,
+      "target": 848
+    },
+    {
+      "source": 715,
+      "target": 408
+    },
+    {
+      "source": 715,
+      "target": 419
+    },
+    {
+      "source": 715,
+      "target": 748
+    },
+    {
+      "source": 715,
+      "target": 61
+    },
+    {
+      "source": 715,
+      "target": 534
+    },
+    {
+      "source": 715,
+      "target": 343
+    },
+    {
+      "source": 124,
+      "target": 376
+    },
+    {
+      "source": 843,
+      "target": 857
+    },
+    {
+      "source": 843,
+      "target": 459
+    },
+    {
+      "source": 843,
+      "target": 61
+    },
+    {
+      "source": 843,
+      "target": 26
+    },
+    {
+      "source": 843,
+      "target": 1085
+    },
+    {
+      "source": 843,
+      "target": 623
+    },
+    {
+      "source": 843,
+      "target": 1064
+    },
+    {
+      "source": 843,
+      "target": 849
+    },
+    {
+      "source": 843,
+      "target": 1058
+    },
+    {
+      "source": 843,
+      "target": 343
+    },
+    {
+      "source": 843,
+      "target": 3
+    },
+    {
+      "source": 843,
+      "target": 1020
+    },
+    {
+      "source": 771,
+      "target": 461
+    },
+    {
+      "source": 771,
+      "target": 247
+    },
+    {
+      "source": 771,
+      "target": 32
+    },
+    {
+      "source": 771,
+      "target": 162
+    },
+    {
+      "source": 771,
+      "target": 626
+    },
+    {
+      "source": 771,
+      "target": 603
+    },
+    {
+      "source": 771,
+      "target": 812
+    },
+    {
+      "source": 771,
+      "target": 401
+    },
+    {
+      "source": 1017,
+      "target": 317
+    },
+    {
+      "source": 1017,
+      "target": 853
+    },
+    {
+      "source": 1017,
+      "target": 626
+    },
+    {
+      "source": 1017,
+      "target": 1064
+    },
+    {
+      "source": 1017,
+      "target": 1025
+    },
+    {
+      "source": 1017,
+      "target": 48
+    },
+    {
+      "source": 1017,
+      "target": 1020
+    },
+    {
+      "source": 890,
+      "target": 686
+    },
+    {
+      "source": 890,
+      "target": 1064
+    },
+    {
+      "source": 890,
+      "target": 662
+    },
+    {
+      "source": 890,
+      "target": 1092
+    },
+    {
+      "source": 890,
+      "target": 600
+    },
+    {
+      "source": 383,
+      "target": 281
+    },
+    {
+      "source": 383,
+      "target": 417
+    },
+    {
+      "source": 383,
+      "target": 351
+    },
+    {
+      "source": 383,
+      "target": 326
+    },
+    {
+      "source": 383,
+      "target": 970
+    },
+    {
+      "source": 383,
+      "target": 285
+    },
+    {
+      "source": 383,
+      "target": 634
+    },
+    {
+      "source": 383,
+      "target": 625
+    },
+    {
+      "source": 383,
+      "target": 128
+    },
+    {
+      "source": 383,
+      "target": 687
+    },
+    {
+      "source": 383,
+      "target": 366
+    },
+    {
+      "source": 574,
+      "target": 459
+    },
+    {
+      "source": 574,
+      "target": 82
+    },
+    {
+      "source": 574,
+      "target": 450
+    },
+    {
+      "source": 574,
+      "target": 1064
+    },
+    {
+      "source": 574,
+      "target": 665
+    },
+    {
+      "source": 574,
+      "target": 432
+    },
+    {
+      "source": 241,
+      "target": 825
+    },
+    {
+      "source": 241,
+      "target": 941
+    },
+    {
+      "source": 241,
+      "target": 61
+    },
+    {
+      "source": 241,
+      "target": 627
+    },
+    {
+      "source": 241,
+      "target": 599
+    },
+    {
+      "source": 241,
+      "target": 369
+    },
+    {
+      "source": 241,
+      "target": 1
+    },
+    {
+      "source": 241,
+      "target": 33
+    },
+    {
+      "source": 241,
+      "target": 889
+    },
+    {
+      "source": 241,
+      "target": 343
+    },
+    {
+      "source": 241,
+      "target": 1037
+    },
+    {
+      "source": 241,
+      "target": 48
+    },
+    {
+      "source": 241,
+      "target": 1020
+    },
+    {
+      "source": 849,
+      "target": 1095
+    },
+    {
+      "source": 849,
+      "target": 626
+    },
+    {
+      "source": 849,
+      "target": 1064
+    },
+    {
+      "source": 849,
+      "target": 343
+    },
+    {
+      "source": 849,
+      "target": 1020
+    },
+    {
+      "source": 849,
+      "target": 748
+    },
+    {
+      "source": 612,
+      "target": 7
+    },
+    {
+      "source": 612,
+      "target": 512
+    },
+    {
+      "source": 612,
+      "target": 168
+    },
+    {
+      "source": 612,
+      "target": 907
+    },
+    {
+      "source": 988,
+      "target": 329
+    },
+    {
+      "source": 988,
+      "target": 876
+    },
+    {
+      "source": 988,
+      "target": 736
+    },
+    {
+      "source": 858,
+      "target": 291
+    },
+    {
+      "source": 858,
+      "target": 390
+    },
+    {
+      "source": 858,
+      "target": 162
+    },
+    {
+      "source": 858,
+      "target": 348
+    },
+    {
+      "source": 123,
+      "target": 561
+    },
+    {
+      "source": 1064,
+      "target": 308
+    },
+    {
+      "source": 1064,
+      "target": 676
+    },
+    {
+      "source": 1064,
+      "target": 1008
+    },
+    {
+      "source": 1064,
+      "target": 890
+    },
+    {
+      "source": 1064,
+      "target": 151
+    },
+    {
+      "source": 1064,
+      "target": 33
+    },
+    {
+      "source": 1064,
+      "target": 662
+    },
+    {
+      "source": 1064,
+      "target": 1092
+    },
+    {
+      "source": 905,
+      "target": 194
+    },
+    {
+      "source": 905,
+      "target": 275
+    },
+    {
+      "source": 905,
+      "target": 53
+    },
+    {
+      "source": 905,
+      "target": 893
+    },
+    {
+      "source": 1052,
+      "target": 563
+    },
+    {
+      "source": 1052,
+      "target": 616
+    },
+    {
+      "source": 1052,
+      "target": 552
+    },
+    {
+      "source": 1052,
+      "target": 28
+    },
+    {
+      "source": 1052,
+      "target": 871
+    },
+    {
+      "source": 1052,
+      "target": 385
+    },
+    {
+      "source": 1052,
+      "target": 223
+    },
+    {
+      "source": 1052,
+      "target": 39
+    },
+    {
+      "source": 1052,
+      "target": 821
+    },
+    {
+      "source": 1052,
+      "target": 646
+    },
+    {
+      "source": 1052,
+      "target": 855
+    },
+    {
+      "source": 1052,
+      "target": 248
+    },
+    {
+      "source": 1052,
+      "target": 662
+    },
+    {
+      "source": 1052,
+      "target": 200
+    },
+    {
+      "source": 1052,
+      "target": 1001
+    },
+    {
+      "source": 1052,
+      "target": 484
+    },
+    {
+      "source": 1052,
+      "target": 610
+    },
+    {
+      "source": 1052,
+      "target": 928
+    },
+    {
+      "source": 1052,
+      "target": 813
+    },
+    {
+      "source": 1052,
+      "target": 494
+    },
+    {
+      "source": 1052,
+      "target": 684
+    },
+    {
+      "source": 1052,
+      "target": 729
+    },
+    {
+      "source": 1052,
+      "target": 942
+    },
+    {
+      "source": 1052,
+      "target": 208
+    },
+    {
+      "source": 1052,
+      "target": 881
+    },
+    {
+      "source": 1052,
+      "target": 793
+    },
+    {
+      "source": 1052,
+      "target": 728
+    },
+    {
+      "source": 1052,
+      "target": 725
+    },
+    {
+      "source": 1052,
+      "target": 37
+    },
+    {
+      "source": 1052,
+      "target": 387
+    },
+    {
+      "source": 1052,
+      "target": 1019
+    },
+    {
+      "source": 1052,
+      "target": 438
+    },
+    {
+      "source": 694,
+      "target": 1107
+    },
+    {
+      "source": 694,
+      "target": 893
+    },
+    {
+      "source": 694,
+      "target": 863
+    },
+    {
+      "source": 281,
+      "target": 514
+    },
+    {
+      "source": 281,
+      "target": 433
+    },
+    {
+      "source": 281,
+      "target": 800
+    },
+    {
+      "source": 281,
+      "target": 1057
+    },
+    {
+      "source": 281,
+      "target": 527
+    },
+    {
+      "source": 281,
+      "target": 446
+    },
+    {
+      "source": 679,
+      "target": 319
+    },
+    {
+      "source": 679,
+      "target": 559
+    },
+    {
+      "source": 679,
+      "target": 812
+    },
+    {
+      "source": 679,
+      "target": 887
+    },
+    {
+      "source": 752,
+      "target": 912
+    },
+    {
+      "source": 752,
+      "target": 277
+    },
+    {
+      "source": 752,
+      "target": 264
+    },
+    {
+      "source": 752,
+      "target": 24
+    },
+    {
+      "source": 752,
+      "target": 227
+    },
+    {
+      "source": 752,
+      "target": 615
+    },
+    {
+      "source": 752,
+      "target": 1094
+    },
+    {
+      "source": 752,
+      "target": 445
+    },
+    {
+      "source": 752,
+      "target": 635
+    },
+    {
+      "source": 752,
+      "target": 782
+    },
+    {
+      "source": 752,
+      "target": 547
+    },
+    {
+      "source": 752,
+      "target": 368
+    },
+    {
+      "source": 752,
+      "target": 501
+    },
+    {
+      "source": 752,
+      "target": 139
+    },
+    {
+      "source": 196,
+      "target": 692
+    },
+    {
+      "source": 196,
+      "target": 245
+    },
+    {
+      "source": 196,
+      "target": 223
+    },
+    {
+      "source": 196,
+      "target": 626
+    },
+    {
+      "source": 196,
+      "target": 447
+    },
+    {
+      "source": 196,
+      "target": 1026
+    },
+    {
+      "source": 196,
+      "target": 790
+    },
+    {
+      "source": 196,
+      "target": 860
+    },
+    {
+      "source": 220,
+      "target": 88
+    },
+    {
+      "source": 220,
+      "target": 763
+    },
+    {
+      "source": 220,
+      "target": 164
+    },
+    {
+      "source": 220,
+      "target": 505
+    },
+    {
+      "source": 220,
+      "target": 349
+    },
+    {
+      "source": 220,
+      "target": 535
+    },
+    {
+      "source": 220,
+      "target": 1034
+    },
+    {
+      "source": 220,
+      "target": 640
+    },
+    {
+      "source": 220,
+      "target": 197
+    },
+    {
+      "source": 220,
+      "target": 940
+    },
+    {
+      "source": 220,
+      "target": 665
+    },
+    {
+      "source": 220,
+      "target": 574
+    },
+    {
+      "source": 220,
+      "target": 23
+    },
+    {
+      "source": 220,
+      "target": 979
+    },
+    {
+      "source": 220,
+      "target": 13
+    },
+    {
+      "source": 220,
+      "target": 46
+    },
+    {
+      "source": 220,
+      "target": 921
+    },
+    {
+      "source": 220,
+      "target": 709
+    },
+    {
+      "source": 220,
+      "target": 276
+    },
+    {
+      "source": 220,
+      "target": 58
+    },
+    {
+      "source": 719,
+      "target": 304
+    },
+    {
+      "source": 719,
+      "target": 874
+    },
+    {
+      "source": 994,
+      "target": 774
+    },
+    {
+      "source": 994,
+      "target": 418
+    },
+    {
+      "source": 994,
+      "target": 297
+    },
+    {
+      "source": 994,
+      "target": 984
+    },
+    {
+      "source": 994,
+      "target": 66
+    },
+    {
+      "source": 994,
+      "target": 814
+    },
+    {
+      "source": 994,
+      "target": 827
+    },
+    {
+      "source": 994,
+      "target": 972
+    },
+    {
+      "source": 146,
+      "target": 459
+    },
+    {
+      "source": 146,
+      "target": 59
+    },
+    {
+      "source": 146,
+      "target": 1064
+    },
+    {
+      "source": 146,
+      "target": 967
+    },
+    {
+      "source": 146,
+      "target": 1020
+    },
+    {
+      "source": 146,
+      "target": 476
+    },
+    {
+      "source": 146,
+      "target": 1096
+    },
+    {
+      "source": 146,
+      "target": 8
+    },
+    {
+      "source": 146,
+      "target": 1060
+    },
+    {
+      "source": 146,
+      "target": 569
+    },
+    {
+      "source": 146,
+      "target": 1097
+    },
+    {
+      "source": 146,
+      "target": 745
+    },
+    {
+      "source": 146,
+      "target": 697
+    },
+    {
+      "source": 146,
+      "target": 848
+    },
+    {
+      "source": 146,
+      "target": 343
+    },
+    {
+      "source": 146,
+      "target": 730
+    },
+    {
+      "source": 146,
+      "target": 409
+    },
+    {
+      "source": 146,
+      "target": 149
+    },
+    {
+      "source": 146,
+      "target": 690
+    },
+    {
+      "source": 146,
+      "target": 624
+    },
+    {
+      "source": 146,
+      "target": 1017
+    },
+    {
+      "source": 146,
+      "target": 61
+    },
+    {
+      "source": 146,
+      "target": 952
+    },
+    {
+      "source": 146,
+      "target": 1091
+    },
+    {
+      "source": 146,
+      "target": 156
+    },
+    {
+      "source": 1045,
+      "target": 1095
+    },
+    {
+      "source": 1045,
+      "target": 650
+    },
+    {
+      "source": 1045,
+      "target": 308
+    },
+    {
+      "source": 1045,
+      "target": 899
+    },
+    {
+      "source": 1026,
+      "target": 196
+    },
+    {
+      "source": 1026,
+      "target": 860
+    },
+    {
+      "source": 1026,
+      "target": 626
+    },
+    {
+      "source": 1026,
+      "target": 447
+    },
+    {
+      "source": 1096,
+      "target": 482
+    },
+    {
+      "source": 1096,
+      "target": 993
+    },
+    {
+      "source": 1096,
+      "target": 852
+    },
+    {
+      "source": 1096,
+      "target": 689
+    },
+    {
+      "source": 1096,
+      "target": 530
+    },
+    {
+      "source": 1096,
+      "target": 629
+    },
+    {
+      "source": 1096,
+      "target": 950
+    },
+    {
+      "source": 1096,
+      "target": 680
+    },
+    {
+      "source": 1096,
+      "target": 439
+    },
+    {
+      "source": 1096,
+      "target": 146
+    },
+    {
+      "source": 1096,
+      "target": 1043
+    },
+    {
+      "source": 1096,
+      "target": 894
+    },
+    {
+      "source": 1096,
+      "target": 848
+    },
+    {
+      "source": 1096,
+      "target": 902
+    },
+    {
+      "source": 1096,
+      "target": 706
+    },
+    {
+      "source": 1096,
+      "target": 71
+    },
+    {
+      "source": 1096,
+      "target": 149
+    },
+    {
+      "source": 1096,
+      "target": 569
+    },
+    {
+      "source": 1096,
+      "target": 1020
+    },
+    {
+      "source": 1096,
+      "target": 261
+    },
+    {
+      "source": 321,
+      "target": 615
+    },
+    {
+      "source": 321,
+      "target": 602
+    },
+    {
+      "source": 321,
+      "target": 990
+    },
+    {
+      "source": 321,
+      "target": 387
+    },
+    {
+      "source": 321,
+      "target": 244
+    },
+    {
+      "source": 164,
+      "target": 119
+    },
+    {
+      "source": 164,
+      "target": 577
+    },
+    {
+      "source": 164,
+      "target": 657
+    },
+    {
+      "source": 164,
+      "target": 763
+    },
+    {
+      "source": 164,
+      "target": 264
+    },
+    {
+      "source": 164,
+      "target": 12
+    },
+    {
+      "source": 164,
+      "target": 940
+    },
+    {
+      "source": 164,
+      "target": 640
+    },
+    {
+      "source": 164,
+      "target": 107
+    },
+    {
+      "source": 164,
+      "target": 749
+    },
+    {
+      "source": 164,
+      "target": 65
+    },
+    {
+      "source": 164,
+      "target": 23
+    },
+    {
+      "source": 164,
+      "target": 46
+    },
+    {
+      "source": 164,
+      "target": 709
+    },
+    {
+      "source": 164,
+      "target": 197
+    },
+    {
+      "source": 164,
+      "target": 684
+    },
+    {
+      "source": 695,
+      "target": 869
+    },
+    {
+      "source": 695,
+      "target": 250
+    },
+    {
+      "source": 695,
+      "target": 926
+    },
+    {
+      "source": 695,
+      "target": 328
+    },
+    {
+      "source": 695,
+      "target": 636
+    },
+    {
+      "source": 695,
+      "target": 984
+    },
+    {
+      "source": 695,
+      "target": 386
+    },
+    {
+      "source": 695,
+      "target": 92
+    },
+    {
+      "source": 695,
+      "target": 961
+    },
+    {
+      "source": 695,
+      "target": 930
+    },
+    {
+      "source": 695,
+      "target": 1011
+    },
+    {
+      "source": 512,
+      "target": 124
+    },
+    {
+      "source": 512,
+      "target": 329
+    },
+    {
+      "source": 512,
+      "target": 7
+    },
+    {
+      "source": 512,
+      "target": 516
+    },
+    {
+      "source": 887,
+      "target": 552
+    },
+    {
+      "source": 887,
+      "target": 601
+    },
+    {
+      "source": 887,
+      "target": 1088
+    },
+    {
+      "source": 887,
+      "target": 603
+    },
+    {
+      "source": 887,
+      "target": 679
+    },
+    {
+      "source": 887,
+      "target": 319
+    },
+    {
+      "source": 887,
+      "target": 812
+    },
+    {
+      "source": 887,
+      "target": 873
+    },
+    {
+      "source": 1075,
+      "target": 880
+    },
+    {
+      "source": 1075,
+      "target": 25
+    },
+    {
+      "source": 1075,
+      "target": 558
+    },
+    {
+      "source": 1075,
+      "target": 39
+    },
+    {
+      "source": 1075,
+      "target": 596
+    },
+    {
+      "source": 1075,
+      "target": 837
+    },
+    {
+      "source": 1075,
+      "target": 387
+    },
+    {
+      "source": 427,
+      "target": 637
+    },
+    {
+      "source": 427,
+      "target": 587
+    },
+    {
+      "source": 708,
+      "target": 552
+    },
+    {
+      "source": 708,
+      "target": 982
+    },
+    {
+      "source": 708,
+      "target": 233
+    },
+    {
+      "source": 708,
+      "target": 1061
+    },
+    {
+      "source": 708,
+      "target": 264
+    },
+    {
+      "source": 708,
+      "target": 1050
+    },
+    {
+      "source": 708,
+      "target": 1033
+    },
+    {
+      "source": 708,
+      "target": 485
+    },
+    {
+      "source": 708,
+      "target": 244
+    },
+    {
+      "source": 708,
+      "target": 681
+    },
+    {
+      "source": 708,
+      "target": 308
+    },
+    {
+      "source": 708,
+      "target": 399
+    },
+    {
+      "source": 708,
+      "target": 564
+    },
+    {
+      "source": 708,
+      "target": 758
+    },
+    {
+      "source": 708,
+      "target": 995
+    },
+    {
+      "source": 708,
+      "target": 1045
+    },
+    {
+      "source": 708,
+      "target": 51
+    },
+    {
+      "source": 708,
+      "target": 953
+    },
+    {
+      "source": 708,
+      "target": 607
+    },
+    {
+      "source": 708,
+      "target": 155
+    },
+    {
+      "source": 708,
+      "target": 387
+    },
+    {
+      "source": 708,
+      "target": 51
+    },
+    {
+      "source": 708,
+      "target": 264
+    },
+    {
+      "source": 708,
+      "target": 953
+    },
+    {
+      "source": 708,
+      "target": 982
+    },
+    {
+      "source": 708,
+      "target": 995
+    },
+    {
+      "source": 708,
+      "target": 1061
+    },
+    {
+      "source": 708,
+      "target": 387
+    },
+    {
+      "source": 708,
+      "target": 244
+    },
+    {
+      "source": 708,
+      "target": 681
+    },
+    {
+      "source": 108,
+      "target": 844
+    },
+    {
+      "source": 108,
+      "target": 159
+    },
+    {
+      "source": 108,
+      "target": 914
+    },
+    {
+      "source": 108,
+      "target": 203
+    },
+    {
+      "source": 108,
+      "target": 861
+    },
+    {
+      "source": 343,
+      "target": 594
+    },
+    {
+      "source": 343,
+      "target": 1010
+    },
+    {
+      "source": 343,
+      "target": 405
+    },
+    {
+      "source": 343,
+      "target": 94
+    },
+    {
+      "source": 343,
+      "target": 61
+    },
+    {
+      "source": 343,
+      "target": 934
+    },
+    {
+      "source": 343,
+      "target": 381
+    },
+    {
+      "source": 343,
+      "target": 945
+    },
+    {
+      "source": 343,
+      "target": 900
+    },
+    {
+      "source": 343,
+      "target": 1060
+    },
+    {
+      "source": 343,
+      "target": 648
+    },
+    {
+      "source": 343,
+      "target": 860
+    },
+    {
+      "source": 893,
+      "target": 1040
+    },
+    {
+      "source": 764,
+      "target": 375
+    },
+    {
+      "source": 764,
+      "target": 723
+    },
+    {
+      "source": 764,
+      "target": 977
+    },
+    {
+      "source": 764,
+      "target": 948
+    },
+    {
+      "source": 764,
+      "target": 467
+    },
+    {
+      "source": 764,
+      "target": 760
+    },
+    {
+      "source": 764,
+      "target": 1031
+    },
+    {
+      "source": 764,
+      "target": 537
+    },
+    {
+      "source": 798,
+      "target": 611
+    },
+    {
+      "source": 798,
+      "target": 837
+    },
+    {
+      "source": 798,
+      "target": 501
+    },
+    {
+      "source": 798,
+      "target": 290
+    },
+    {
+      "source": 798,
+      "target": 1084
+    },
+    {
+      "source": 798,
+      "target": 187
+    },
+    {
+      "source": 798,
+      "target": 724
+    },
+    {
+      "source": 798,
+      "target": 1056
+    },
+    {
+      "source": 798,
+      "target": 307
+    },
+    {
+      "source": 767,
+      "target": 714
+    },
+    {
+      "source": 767,
+      "target": 879
+    },
+    {
+      "source": 767,
+      "target": 132
+    },
+    {
+      "source": 767,
+      "target": 142
+    },
+    {
+      "source": 767,
+      "target": 895
+    },
+    {
+      "source": 767,
+      "target": 1074
+    },
+    {
+      "source": 767,
+      "target": 87
+    },
+    {
+      "source": 767,
+      "target": 943
+    }
+  ],
+  "nodes": [
+    {
+      "id": "",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SoftLayer",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Harley-Davidson",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "BMC Software",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Franklin Templeton Investments",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Regeneron",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Pioneer Natural Resources",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Henry Schein",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Huawei",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Marriott International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Regions Financial Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "PulteGroup",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ARINC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Selex ES",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Malvern Instruments",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Barnes & Noble",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "NASDAQ",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Speedway LLC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ferromex",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Amec Foster Wheeler",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "HCP, Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Flowserve",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "BorgWarner",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Elbit Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Bosch Rexroth",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Accuray Incorporated",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Atlassian",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Olympus Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Aricent",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dollar Tree",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "LabCorp",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Vodafone",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Altera",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Google",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Limelight Networks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Kellogg School of Management",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Consolidated Edison",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Altec Lansing",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hyundai",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Philips",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Nippon Telegraph and Telephone",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CoreSite",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Boston Scientific",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Chicago Bridge & Iron Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Jakks Pacific",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "State Street Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "General Dynamics",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Endurance Specialty Holdings Ltd",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dell EMC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Infogroup",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Jawbone",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "United Technologies Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "John Crane Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ASML Holding",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "NEC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Gett",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Chicago Mercantile Exchange",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Leucadia National",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "American Eagle Outfitters",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Avaya",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Level 3 Communications",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dell",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "PartnerRe Ltd.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "MSCI",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Flotek Industries, Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Garmin Ltd.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "JPMorgan Chase",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CentralNic",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hyatt",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Capital One",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sigma-Aldrich",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AppViewX",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Experian PLC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Spectral Genomics",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SCOR SE",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Mosaic",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Tenet Healthcare",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dr Pepper Snapple Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Staples",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Global Industrial",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Air Products & Chemicals",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Western CLEC Corp",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "UXC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Rackspace",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Illinois Tool Works",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Target Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Telia Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Smithfield Foods",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CSRA",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "MasterCard Advisors LLC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Monster Beverage",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Rakuten",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Alipay",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Event Marketing Solutions",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Apple Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dover Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Newmark Knight Frank",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sherwin-Williams",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ar_elik",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cincinnati Financial",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Gap Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Akamai Technologies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SBA Communications",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Enron",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Advanced Micro Devices",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Bristol-Myers Squibb",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "M&T Bank",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Esterline",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Mallinckrodt",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Wyndham Worldwide",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ITT Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "FIS",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "XL Recordings",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CVS Health",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SunGard Reference Data Solutions LLC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Movado",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cook Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Verisk Analytics",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Paccar",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "General Electric",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Yara International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hytera",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Simon Property Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Darden Restaurants",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "McKesson Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Avery Dennison",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Marathon Oil",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Navman",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Harrods",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "DuPont",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SanDisk",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "JGC Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Tyson Foods",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "HBO",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Wolt",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AutoNation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Auchan",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "NRG Energy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "St. Jude Medical",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Eaton Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Lakeshore Entertainment",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Xcel Energy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Conagra Brands",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Invesco",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Infoblox",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cameron International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cisco Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Didi Chuxing",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Smiths Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Brocade Communications Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "McGraw-Hill Education",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Facebook",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "LifeLock",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Rezidor Hotel Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "The Home Depot",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Exide",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ARRIS Group Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "The Travelers Companies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "FactSet",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Teva Pharmaceutical Industries",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Airbnb",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hasbro",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ASICS",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Pentair",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Rockwell Collins",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Spectra Energy Partners, LP",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Motors Liquidation Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Nasdaq Nordic",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Carestream Health",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Allergan",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Masco",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Starwood",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "O'Reilly Auto Parts",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "People's United Financial",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Amphenol Interconnect Products Corp",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Weatherford International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Suntory",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Boehringer Ingelheim",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Molson Coors Brewing Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Murphy Oil",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "FirstEnergy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Discover Financial Services",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "FedEx Office",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Janssen Pharmaceutica",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Time Warner",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Leidos",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CBS",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Leica Biosystems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Principal",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Baltimore Orioles",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "General Motors",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "UnitedHealth Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CF Industries",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Longs Drugs",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Rudolph Technologies, Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Thomson Reuters Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Western Digital",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "BAE Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Harte Hanks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Intex Technologies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "M-Audio",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Wolters Kluwer",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Marcus & Millichap",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Johnson Matthey",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "WILO group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sanofi",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Konica Minolta",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "PNC Financial Services",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Digidesign",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CBRE Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Carrefour",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "The Clorox Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "WorleyParsons",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Frontier Communications",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Express Scripts",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Altria",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Kaiser Permanente",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Experian AS",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sam's Club",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "IMRIS",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "T.I.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Agrium",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Jockey International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Samsung",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "BB&T",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Lowe's",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Amcor",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Triumph Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AvalonBay Communities",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Fresenius Medical Care",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Chesapeake Energy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Marsh & McLennan Companies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CME Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Interstate Batteries",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Tom's Snacks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Nickelodeon",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AT&T Mobility",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Time Warner Cable",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Northern Indiana Public Service Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cintas",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Threshold Editions",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "NetApp",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Chipotle Mexican Grill",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cimarex Energy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Schneider Electric",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "HGST",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "LVMH",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Lattice Semiconductor Canada Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Denso",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "DocuSign",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Mastercard",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "NBCUniversal",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CenturyLink",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Tiffany & Co.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Lennar Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Yelp",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Allstate",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Prudential Financial",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ethicon Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Verizon Fios",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Fresenius",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "KEMP Technologies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "DCP Midstream Partners",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Gildan Activewear",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Honeywell",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "DTZ",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cannondale-Drapac",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Roper Technologies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Algorithmics Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cumulus Media",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Showtime",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Snap-on",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Monster Cable",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Vodafone Global Enterprise",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ross Stores",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hitachi High-Technologies Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Thales Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Swagelok",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Expedia",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Pentair Filtration, Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cox Enterprises",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Est©e Lauder Companies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Citi Open",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dish Network",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "TelecityGroup",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Bergdorf Goodman",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Colgate-Palmolive",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Raymond Weil",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Insulet Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "WEC Energy Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Waters Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Moody's Investors Service",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Martin Marietta Magnesia Specialties, LLC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Lithium Corporation of America",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Leggett & Platt",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Norfolk Southern Railway",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "The Personal Insurance Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sage Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Anadarko Petroleum",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ansys",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Kimberly-Clark",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "EOG Resources",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Chelton Flight Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "LCH",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "PFG Lester Broadline Inc",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ITA Software",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Fox Sports Networks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Affymetrix",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Walmart",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "HarperCollins",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Best Western",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Realty Income Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AES Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cloudflare",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "FMC Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "C. R. Bard",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Red Bull GmbH",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Trend Micro",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "GameStop",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Maxim Integrated",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Bandai",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Rockwell Automation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Abbott Laboratories",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Range Resources",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "InterContinental Hotels Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Johnson Outdoors",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Fossil Partners, L.P.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Progressive Era",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "China UnionPay",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "United Parcel Service",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Gucci",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Urban Outfitters",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Firmenich",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Misys",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "LG Corp",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Unilever",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Owens-Illinois",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ThreatConnect",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Spectrum Brands",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Telehouse Europe",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "GlaxoSmithKline",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ICU Medical",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "KPN",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hewlett-Packard",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dollar General",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Genworth Financial",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "United Therapeutics Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Schlumberger",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Under Armour",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CACI",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Webjet",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Saks Fifth Avenue",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "McDonnell Douglas F-4 Phantom II",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Kinder Morgan",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Williams Companies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AppNexus",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SPX Flow Technology (Shanghai) Co",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Entercom",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "3D Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CVS Caremark",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "PricewaterhouseCoopers",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Playmobil FunPark",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Validus Holdings, Ltd.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "eDreams ODIGEO",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "IHS Markit",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Intergraph",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Macy's",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Tyco International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Trelleborg",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Pure Storage",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CMC Electronics",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Morgan Stanley",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Equinix",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Morningstar, Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Haier",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Stardent Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cognizant",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Spotify",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "DBRS",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cabot Oil & Gas",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Newpark Resources",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Xerox",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Skyscanner Ltd",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Michael Kors",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Novartis",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Shure",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "EFTPOS",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Siemens",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Getty Images",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Munich Re",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Li-Ning",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ViiV Healthcare",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hanesbrands",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Xylem Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "EQT",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Gilead Sciences",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Allscripts",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Victoria's Secret",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Corning Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "GS Yuasa",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "BankServ",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Marvell Technology Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ONEOK",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Paramount Pictures",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hon Hai Precision Industry Co., Ltd.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Brother Industries",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Nvidia",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "MetLife",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SUSE",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Nokia",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Chevron Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "GetYourGuide",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "eLong",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "BNSF Railway",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Samsung Engineering",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Karl Storz GmbH",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Interoute",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Luxottica",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ADP, LLC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Mirantis",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Southwest Airlines",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Orbitz",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Alcatel-Lucent",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ford Motor Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Pivotal Software",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Savills",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Kmart",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Helmerich & Payne",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "TeleTech",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Crown Castle International Corp.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Rexam",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Kroll Bond Rating Agency",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Fruition",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Procter & Gamble",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Honda Motor Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Open Road Films",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Chubb Limited",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "National Oilwell Varco",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Mitsubishi",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Allot Communications",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "LoyaltyOne",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Phenomenex",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Northern Trust",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Western Union",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ExxonMobil",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Gates Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Shiseido",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SK Hynix",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Mondelez International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ameropa Holding",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "HCL Technologies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Noble Energy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Transocean",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Citibank",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ameriprise Financial",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "FMC Technologies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Midea",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Coca-Cola Enterprises",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Delta Air Lines",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "VMware",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Kolynos Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Microsemi",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Boston Properties",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Naver Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Alibaba Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Iron Mountain",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Gardner Denver",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Caterpillar Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AMETEK, Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Walt Disney",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "W. W. Grainger",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ascena Retail Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hillshire Brands",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Aflac",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "The Lego Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Old Navy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Fortinet",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "STX Entertainment",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "E-Trade",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Becton Dickinson",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "The Weinstein Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Metro-Goldwyn-Mayer",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sandvine",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Anthropologie",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Visteon",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "VARTA",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "D. R. Horton",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Duferdofin Nucor S.r.l.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "MetroPCS Communications, Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "McCormick & Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Molex",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SuperDerivatives",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "National Beef Packing Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Technip",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Wipro",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Chiyoda Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Mohawk Industries",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Constellation Brands",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Fiserv",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Blue Cross Blue Shield Association",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Newfield Exploration",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Danaher Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Baidu",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Citigroup",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dassault Syståmes",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Leonardo S.p.A.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Newmont Mining Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AECOM",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hannover Re",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Newell Brands",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "McDonald's",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Scripps Networks Interactive",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AmerisourceBergen",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Bed Bath & Beyond",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Amorepacific Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Atria Publishing Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cardinal Health",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CVS Pharmacy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Actelion Pharmaceuticals US Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Depository Trust & Clearing Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "TECO Energy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "American International Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Torchmark",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SNL Financial",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dover",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Banco Santander",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Huntington Bancshares",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Avon Products",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Crown Holdings",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Pocket Books",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Blue Coat Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Archer Daniels Midland",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Charles Schwab Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "MiTAC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Unisys",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Lockheed Martin",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Getinge Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Toro",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "JB Hi-Fi",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Southwestern Energy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "American Tower Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Toys \"R\" Us",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Alleghany Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AccorHotels",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dun & Bradstreet",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Mettler Toledo",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cigna",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Festo",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Protiviti",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sony",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hexagon AB",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hess Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Robert Bosch GmbH",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "BookIt.com",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Jacobs Engineering Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Berkshire Hathaway",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Nemetschek",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Plum Creek Timber",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Vieworks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Intersil",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Spectra Energy Southeast Supply Header LLC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Yahoo!",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ferrosur",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Meyer Sound Laboratories",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Danfoss Power Solutions",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Alexandria Real Estate Equities, Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "International Paper",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Genentech",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Discovery Channel",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Juniper Networks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "DIRECTV",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Phillips 66",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "DeLorme",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "United Rentals",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Computer Sciences Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Oliver Wyman",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Fastenal",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "FlightSafety International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Terremark",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Fifth Third Bank",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "M-Pesa",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Booz Allen Hamilton",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Eastman Chemical Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sara Lee Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Zipcar",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "McAfee",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Proximus Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Patterson-UTI",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Simon & Schuster",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Silgan Holdings",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Genpact",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Delphi Automotive",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Whirlpool Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Assurant",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Asus",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Fitch Ratings",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sumitomo Heavy Industries",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AstraZeneca",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Media Markt",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Nimbus Data",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ubisoft",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "NXP Semiconductors",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ABB Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Broadcom",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Occidental Petroleum",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sobeys",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Nominum",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sears",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Edison International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Schering-Plough",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Tannoy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "company Abbott Laboratories",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Patterson Companies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Twitter Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "MyNetworkTV",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Emerson Electric",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sony Professional Solutions",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Rolls-Royce Holdings plc",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "General Dynamics F-16 Fighting Falcon",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Unum",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Indus Towers",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Standard Oil",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sempra Energy Mexico S.A. de C.V.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SolarWinds",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Riverbed Technology",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Harvey Nichols",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Intel",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Kaminario",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Starz",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Barracuda Networks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CommScope",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Kansas City Southern de M©xico",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ensco plc",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Wynn Resorts",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Neiman Marcus",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sauer Danfoss A",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cielo S.A.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Nabors Industries",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Kellogg's",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "eBay",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Boeing",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Atheneum Books",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Yandex",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Spin Master",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "A. M. Best",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Capco",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Tata Consultancy Services",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Mattel",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ricoh",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Diamond Offshore Drilling",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Kroger",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Carquest",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "TripAdvisor",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "WebMD",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hong Kong Exchanges and Clearing",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CFM International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Priceline",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CAE Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "BlackRock",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Vornado Realty Trust",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Triumph International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Discovery Communications",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sony Music",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Vulcan Materials Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Johnson & Johnson",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AT&T",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Health Net",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Safran Helicopter Engines",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Expeditors International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Chevron Phillips Chemical",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "TUI Travel",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Yazaki",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ameren",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Alexion Pharmaceuticals",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CenterPoint Energy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dragon Ball",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Nintendo",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Textron",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Egan-Jones Ratings Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Linear Technology",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "iCall",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Lennox International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Comerica",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "HSBC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Panasonic",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ralph Lauren Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Warner Bros.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Holt Renfrew",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Shutterstock",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "A10 Networks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Extreme Networks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Medline Industries",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Seagate Technology",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Interpublic Group of Companies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Lam Research",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Visa Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Aspen Avionics",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Polycom",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Weir Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Oklahoma Gas & Electric",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Tesco PLC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Adobe Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cephalon",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Red Hat",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Groupon",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Corel",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Gartner",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Macerich",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Johnson Controls",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Northrop Grumman",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "TomTom",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sempra Energy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Bentley Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "The Walt Disney Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "General Mills",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Red Hat Software",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "salesforce.com",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Zayo Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Colliers International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sysco",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sempra Energy International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Alcoa",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Eli Lilly and Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Volvo",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Thermo Fisher Scientific",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "LOUD Technologies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "The Hershey Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SecureWorks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Audio-Technica",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Aisin Seiki",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Arista Networks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ctrip",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CIRCOR International, Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Goldman Sachs",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "MGA Entertainment",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Nucor",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "DHL Express",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Calvin Klein",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Qualcomm",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CheapTickets",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Intercontinental Exchange",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Zions Bancorporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Comcast",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Weigel Broadcasting",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Avalanche Software",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Check Point Software Technologies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Amphenol",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "EdgeCast",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SAP SE",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "B/E Aerospace",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Acxiom Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Penguin Random House",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Parker Hannifin",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "GGP Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Danone",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Russell Brands",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Celgene",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sepura",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Lear Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "MS Amlin",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Claas",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Electrolux",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Coca-Cola",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Raytheon",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "John Deere",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Fossil Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Halliburton",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hormel",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "BT Consumer",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Avid",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CBS Radio",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Xilinx",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cerner",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ecolab",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "First Data",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "HolidayCheck Group AG",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Amgen",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "FLIR Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Kiewit Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "PotashCorp",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "BGC Partners",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "VTech",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SMC Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AMETEK S.r.l",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Interactive Data Pricing & Reference Data Inc",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "óKD",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Telef_nica",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Netflix",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Towers Watson",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Pharmacyclics",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Seagate Technology LLC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "J. B. Hunt",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Assa Abloy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Yamaha Motor Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SunTrust Banks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Marathon Petroleum Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cummins",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Bayer",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Agilent Technologies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Intuitive Surgical",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Chanel",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Fitbit",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Apache",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Grundfos",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Praxair",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Quest Diagnostics",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Freeport-McMoRan",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Starbucks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "LivaNova",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ceridian Canada",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "T. Rowe Price",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Waste Management",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Texas Instruments",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sonos",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "H&R Block",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Free People",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Spectra Energy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Milestone Scientific",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SL Green Realty",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Office Depot",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SABMiller",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Foster Electric Company, Limited",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Welltower",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "IHeartMedia",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Tractor Supply Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Tintri",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ICE Clear Europe Ltd",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Paychex",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "RenaissanceRe",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Best Buy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SCANA",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Stanley Black & Decker",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Valero Energy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "T-Mobile",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Bell Media",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "GTL Infrastructure Ltd.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "PepsiCo",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "PerkinElmer",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "IRI",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "The Hartford",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Baker Hughes, a GE company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Principal Global Investors (Australia) Service Company Pty Ltd",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Goodyear Tire and Rubber Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CA, Inc",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Pfizer",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Criteo",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Aimco",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Neustar",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Citrix Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Oracle Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Medtronic",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Fluor Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Array Networks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "GoDaddy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "American Electric Power",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Clay Paky",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Emerson Process Management LLLP",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AppDynamics",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Nike",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "BlaBlaCar",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Toshiba",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "IMS Health",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Omnicom Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ASM International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Aetna",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Republic Services",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Edwards Lifesciences",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Trimble",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Accenture",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Interac",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Swatch",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cyber Acoustics",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Buena Vista Pay Television Inc",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Microchip Technology",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Brake Bros",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Humana",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "FedEx Express",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Teradata",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "NiSource",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Campbell Soup Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hitachi",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Klipsch Audio Technologies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Carlson Wagonlit Travel",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "U.S. Bancorp",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CMS Energy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "HomeAway",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Bechtel",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Analog Devices",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Bruker",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Violin Memory",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Electronic Arts",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Pitney Bowes",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dai-ichi Life",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Applied Materials",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Imperva",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cargill",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Loews Cineplex Entertainment",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "C. H. Robinson",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Autodesk",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "BJ's Wholesale Club",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Canon Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Givaudan",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Radware",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Skyworks Solutions",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dow Chemical Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "KLA-Tencor",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Equifax",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Idexx Laboratories",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SNC-Lavalin",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Baxter International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Red Hat S de RL de CV",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Interxion",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "UTC Aerospace Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Altice USA",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Mylan",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Quanta Services",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "United Airlines",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ALLSTATE FINANCIAL SERVICES LLC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dun & Bradstreet S.r.l.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dentsply Sirona",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Alliance Data",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SpeedCast",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "KSB",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "DaVita",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hotel Urbano",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Merchant Customer Exchange",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Bank of America",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Deutsche B_rse",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sennheiser",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Deutsche Telekom",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Visa Canada",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "State Agency of Automobile Roads of Ukraine",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AXA",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Kraft Foods",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Acer Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Verallia North America",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Nestl©",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "PVH",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Afilias",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Zoetis",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "L-3 Communications",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Nimble Storage",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Crestron Electronics",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Butterball",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "KeyBank",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Lexmark",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Centene Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "L Brands",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Volvo Construction Equipment",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Weyerhaeuser",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Checkpoint Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Merck & Co.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ubiquiti Networks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Gree Electric",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "William Stryker",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Martin Marietta Materials",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Allegion",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Kimco Realty",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "TJX Companies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CSX Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Lyft",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Diners Club International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Lincoln Electric",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "The Coca-Cola Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Mead Johnson",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "SunGard",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Lions Gate Entertainment",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Palo Alto Networks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Union Pacific Railroad",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Pep Boys",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Selfridges",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Esri",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Wells Fargo",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "MakeMyTrip",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Fujitsu",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Affiliated Managers Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "VF Investments S.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AGCO",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Trayport Limited",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Motorola Solutions",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Yum! Brands",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Franklin Electric",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ingersoll Rand Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Corning",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "PayPal",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "pSivida",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Monsanto",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Andeavor",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "FedEx",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hotels.com",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Mitsubishi Electric",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Global Insight",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sirius XM Holdings",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Tekelec",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Intuit",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Daikin",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Pacific Gas and Electric Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Public Storage",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Tomy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Simon & Schuster of Canada Ltd.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "The Bank of New York Mellon",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Lawo",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Southern Company Gas",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dunkin' Donuts",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "BHLDN",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Fnac",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Philip Morris International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Exelon",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "LinkedIn Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Sulzer",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Epson",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "American Express",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Wotif.com",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Avidyne Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "RiskIQ",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Nordstrom",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "NBC",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Symantec",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "FICO",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Logitech",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "IBM",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Verizon Communications",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Granite Construction",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "TSYS",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Cott",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Comodo Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Micron Technology",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Equity Residential",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "TE Connectivity Ltd.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "TransUnion",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Kohl's",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Komatsu Limited",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Devon Energy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AutoZone",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ManTech International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Telmex",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "OpenTable",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Tegile Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "India Brand Equity Foundation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Alcoa Luxembourg S.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ProQuest",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Navico",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "TAG Heuer",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Acme Packet",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Las Ventas",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Costco",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ryder",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Lincoln National Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Convergys",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Santander Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Advance Auto Parts",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Credit Karma",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Harman International Industries",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "JLL",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Ball Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Aveva",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Roche Holding AG",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Beiersdorf",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ServiceNow",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Kraft Foods Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Lenovo",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Carrier Corporation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Robert Half International",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Booking.com B.V.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Microsoft",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "DisneyABC Television Group",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AOL",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "PPG Industries",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Verisign",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Seiko",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "AbbVie Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Symrise",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Consol Energy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Pepco Holdings",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "The J.M. Smucker Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Varian Medical Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CheapOair",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Hiscox",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Stericycle",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CSX Transportation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Reynolds American",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "MEDHOST",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "GE Aviation",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Balfour Beatty",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Shimadzu Corp.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Compuware",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "International Flavors & Fragrances, Inc.",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "CarMax",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Infineon Technologies",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Universal Health Services",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Qunar",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "FireEye",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Activision Blizzard",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "First Solar",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Donaldson Company",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Amazon.com",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "F5 Networks",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "BlueJeans Network",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Airbus",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ConocoPhillips",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Quality Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Merial",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Essendant",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Rite Aid",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Dominion Energy",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "ThyssenKrupp Marine Systems",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Vonage",
+      "type": "circle",
+      "score": 1
+    },
+    {
+      "id": "Tokyo Electron Limited",
+      "type": "circle",
+      "score": 1
+    }
+  ],
+  "directed": true,
+  "multigraph": false
+}
