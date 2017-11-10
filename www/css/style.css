@@ -9,6 +9,12 @@ a:hover > .fa , a:hover span > .fa {
     color: dodgerblue;
 }
 
+
+body {
+
+    margin-bottom: 60px;
+}
+
 .footer {
     position: fixed;
     bottom: 0;
