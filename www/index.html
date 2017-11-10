@@ -8,16 +8,25 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>The 10-K Project</title>
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <meta name="description" content="Interactive network visualization of competitors parsed from 10-K filings">
+    <meta name="author" content="Prasanna Parasurama">
+
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>The 10-K Project</title>
+    <style>
+        body {
+            overflow-y:hidden;
+        }
+
+    </style>
 
 </head>
 
 <body>
 
-<h1 class="display-3 text-center"> The 10-K Project </h1>
+<h1 class="display-4 text-center"> The 10-K Project </h1>
 <nav class="navbar justify-content-center">
     <h4><a class="nav-link active" href="index.html">Demo</a></h4>
     <h4><a class="nav-link" href="about.html">About</a></h4>
@@ -27,7 +36,7 @@
 <p class="text-center"> Scroll to zoom. Hover on a node to highlight. Click and drag a node to highlight neighbors.</p>
 
 <!--viz-->
-<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="https://d3js.org/d3.v3.min.js"></script>
 
 <script type="text/javascript">
     var w = window.innerWidth;
